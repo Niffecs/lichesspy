@@ -18,7 +18,7 @@ def def_readme():
 
 setuptools.setup(
     name="lichesspy",
-    version="2.0.0",
+    version="1.0.0",
     author="Niffecs",
     author_email="Niffecs@gmail.com",
     description="Python wrapper for lichess",
